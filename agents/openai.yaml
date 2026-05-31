@@ -1,0 +1,5 @@
+
+interface:
+  display_name: "Image to PPTX Precision Rebuild"
+  short_description: "拆分图片元素、去除图片中文字、识别文字与表格，重建高保真可编辑 PPTX"
+  default_prompt: "使用 $image-to-pptx-precision-rebuild 将页面图片重建为 PPTX：非文字元素拆成透明 PNG，文字全部转可编辑文本，表格转原生 PowerPoint 表格，字体统一微软雅黑，并完成裁剪与排版 QA。"
