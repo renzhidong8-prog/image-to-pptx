@@ -155,10 +155,6 @@ JSON 示例：
 └── .gitignore
 ```
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=renzhidong8-prog/image-to-pptx&type=Date)](https://www.star-history.com/#renzhidong8-prog/image-to-pptx&Date)
-
 ## 交流群
 
 扫描二维码加入交流群，分享使用经验、反馈问题，并获取更新通知。
