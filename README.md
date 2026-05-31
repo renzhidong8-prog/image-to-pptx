@@ -165,6 +165,7 @@ JSON 示例：
 
 <img src="assets/community-qr.png" alt="image-to-pptx 交流群二维码" width="220">
 
+
 ## 许可证
 
-本仓库当前未附加开源许可证。
+本项目基于 [MIT License](LICENSE) 开源。
