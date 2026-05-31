@@ -1,8 +1,8 @@
 ---
-name: image-to-pptx-precision-rebuild
+name: image-to-pptx
 description: 当用户提供 PPT 页面图片、幻灯片截图或图片版页面，并要求拆分视觉元素、彻底去除图片中文字、识别文字为可编辑文本、将表格转为原生 PowerPoint 表格、最终输出高保真可编辑 PPTX 时使用。
 ---
-# Image to PPTX Precision Rebuild
+# image-to-pptx
 
 ## Goal
 
