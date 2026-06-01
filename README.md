@@ -75,7 +75,7 @@ pip install python-pptx
 推荐使用 `skills` CLI 安装到 Codex 的全局 skills 目录：
 
 ```bash
-npx -y skills@latest add renzhidong8-prog/image-to-pptx \
+npx -y skills@latest add shuzige888-prog/image-to-pptx \
   --skill image-to-pptx \
   --agent codex \
   --global
@@ -84,7 +84,7 @@ npx -y skills@latest add renzhidong8-prog/image-to-pptx \
 也可以直接在 Codex 对话里输入：
 
 ```text
-$skill-installer https://github.com/renzhidong8-prog/image-to-pptx
+$skill-installer https://github.com/shuzige888-prog/image-to-pptx
 ```
 
 安装完成后，重启 Codex 让新 skill 生效。
